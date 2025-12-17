@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "stripe-webhook",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8dd8cf4f-5ea3-4142-867f-9824cc9f77a8",
+			"database_name": "d1-stripe-webhook-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
